@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@babel/generator": "^7.28.5",
+    "@babel/parser": "^7.28.5",
+    "@babel/traverse": "^7.28.5",
+    "canvas": "^3.2.0",
+    "jsdom": "^27.2.0"
+  }
+}
